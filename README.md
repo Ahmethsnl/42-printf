@@ -6,7 +6,7 @@ Printf fonksiyonunun klonu.
 
 ## İnstall
 ```bash
-git clone <https://github.com/Ahmethsnl/42_Printf.git> ft_printf
+git clone https://github.com/Ahmethsnl/42_Printf.git ft_printf
 ```
 ## Makefile
 ```bash
